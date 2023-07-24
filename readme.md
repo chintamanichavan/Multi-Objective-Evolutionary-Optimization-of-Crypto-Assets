@@ -37,10 +37,3 @@ This is a simplified model and does not take into account factors like transacti
 ## Contribution
 
 This project is open-source and we welcome any feedback. If you have any suggestions or you want to see improvements, feel free to open an issue or make a pull request.
-
-## License
-
-MIT
-```
-
-This is just a basic example and should be modified according to the actual content and structure of your project. Also, always remember to add appropriate disclaimers and licensing information when dealing with financial information and advice.
